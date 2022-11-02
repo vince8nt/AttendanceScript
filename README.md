@@ -1,5 +1,9 @@
 usage: python script.py
 
+Before using, make sure to edit the array: skipped_lectures
+inside of script.py. This will make it so lecture numbers match
+the class calendar. (it will not affect the total scores)
+
 script.py should be in the same location as the 'csv' directory.
 The 'csv' directory should contain a .csv file for each lecture.
 
